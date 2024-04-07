@@ -8,3 +8,7 @@ This is where I backup my astrovim config to keep track of changes. I seem to lo
 - Lua
 - JSON
 
+
+## Current Look
+
+![AMERICA!!!](img/astrovim.png) 
